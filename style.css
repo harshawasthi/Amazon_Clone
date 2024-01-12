@@ -274,12 +274,12 @@ Footer{
     justify-content: space-evenly;
     padding-top: 35px;
     flex-wrap: wrap;
-    /* padding-left: 200px;
-    padding-right: 200px; */
+    padding-left: 200px;
+    padding-right: 200px;
 }
-/* .u{
+.u{
     width: 20%;
-} */
+}
 .foot-panel5 p{ 
     color: #dddddd;
     font-size: 0.9rem;
