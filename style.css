@@ -267,8 +267,8 @@ Footer{
         margin-left: 75px;
 }
 /* Foot Part-4 */
-.foot-panel5{
-    height: 160px;
+.foot-panel4{
+    height: 140px;
     background-color: #131A22;
     display: flex;
     justify-content: space-evenly;
@@ -280,11 +280,11 @@ Footer{
 .u{
     width: 20%;
 }
-.foot-panel5 p{ 
+.foot-panel4 p{ 
     color: #dddddd;
     font-size: 0.9rem;
 }
-.foot-panel5 a{
+.foot-panel4 a{
     display: block;
     font-size: 0.8rem;
     color: #999999;
@@ -297,7 +297,7 @@ Footer{
     text-decoration: underline;
 }
 /* Foot Part-5 */
-.foot-panel4{
+.foot-panel5{
     height: 60px;
     background-color: #131A22;
     color: #dddddd;
